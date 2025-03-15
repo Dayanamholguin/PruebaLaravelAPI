@@ -5,7 +5,7 @@
 - Laravel 12
 - Livewire 3
 
-  git clone https://github.com/Dayanamholguin/PruebaMantum.git
+  git clone https://github.com/Dayanamholguin/PruebaLaravelAPI.git
   
   cd PruebaMantum
 
