@@ -2,6 +2,8 @@
 - Composer
 - Node.js y npm
 - MySQL
+- Laravel 12
+- Livewire 3
 
   git clone https://github.com/Dayanamholguin/PruebaMantum.git
   cd PruebaMantum
