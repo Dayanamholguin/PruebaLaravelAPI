@@ -6,6 +6,7 @@
 - Livewire 3
 
   git clone https://github.com/Dayanamholguin/PruebaMantum.git
+  
   cd PruebaMantum
 
   composer install
