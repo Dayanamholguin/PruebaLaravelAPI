@@ -1,4 +1,4 @@
-- PHP >= 8.0
+- PHP >= 8.4.5
 - Composer
 - Node.js y npm
 - MySQL
